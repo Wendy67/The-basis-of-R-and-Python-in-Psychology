@@ -1,2 +1,10 @@
-# The-basis-of-R-and-Python-in-Psychology
-This is for the beginner of learning code in psychology
+# R Tutorial Materials
+
+
+## The basis of R 
+
+|   | Run | Run | View |
+| - | --- | --- | ---- |
+| Tutorial 1 | ([![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/xiujuanwen/fundamental-computation))
+
+
